@@ -1,0 +1,7 @@
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\bin\Debug\ContactsProject.exe.config
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\bin\Debug\ContactsProject.exe
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\bin\Debug\ContactsProject.pdb
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\obj\Debug\ContactsProject.csprojResolveAssemblyReference.cache
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\obj\Debug\ContactsProject.csproj.CoreCompileInputs.cache
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\obj\Debug\ContactsProject.exe
+C:\Users\CCA005\Documents\class projects\9-10-2018\ContactsProject\ContactsProject\obj\Debug\ContactsProject.pdb
